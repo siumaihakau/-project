@@ -3,11 +3,16 @@ An app that assists in your learning and recognition in japanese characters, bot
 
 
 Use that drop down bar to select a mode for your quiz:
+
 hiragana - characters will only appear in hiragana
+
 katakana - characters will only appear in katakana
+
 mixed - characters will randomly appear in either of two character sets
 
+
 A character will appear.
+
 Enter the corresponding romaji for the charater to answer!
 
 
